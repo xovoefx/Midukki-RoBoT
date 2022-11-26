@@ -1,11 +1,11 @@
 START_TXT = """
-Hello 👋 {mention} 
+ ʜᴇy, {mention} 
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
+ɪ'ᴍ <b>{bot}</b> ✨ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴍᴇɴᴛ
 
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
+ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴩ yᴏᴜ ᴍᴀɴᴀɢᴇ yᴏᴜʀ ɢʀᴏᴜᴩꜱ! ʜɪᴛ /help ᴛᴏ ꜰɪɴᴅ ᴏᴜᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ ᴛᴏ ᴍy ꜰᴜʟʟ ᴩᴏᴛᴇɴᴛɪᴀʟ..!
 
-Join <b><a href=http://t.me/venombothelp>my news channel</a></b> to get information on all the latest updates
+ᴊᴏɪɴ <b><a href=http://t.me/venombothelp>ᴍy ɴᴇᴡꜱ ᴄʜᴀɴɴᴇʟ</a></b> ᴛᴏ ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ᴀʟʟ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ᴜᴩᴅᴀᴛᴇꜱ
 """
 
 HELP_TXT = """
