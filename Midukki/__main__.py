@@ -109,7 +109,7 @@ async def donate_command(client: Midukki_RoboT, message: message()):
         await message.reply_photo(photo=choice(Configs.START_PICS), caption=DONATE_TXT.format(mention=mention, name=bot_name, username=bot_username))         
     else:
         await message.reply_text(text=DONATE_TXT.format(mention=mention, name=bot_name, username=bot_username))
-    await message.reply(f"You can also donate to the person currently running me [Here]({Configs.DONATE_LINKS})")  
+    await message.reply(f"You can also donate to the person currently running me [Here](https://t.me/xovo_efx)")  
      
 if __name__ == "__main__":
     Midukki_RoboT().run()
