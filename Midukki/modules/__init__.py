@@ -217,31 +217,31 @@ class vars(object):
         [
             button()
                 (
-                    "➕️ Add Me To Your Group ➕️",
+                    "➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕️",
                         url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
                 )
         ],
         [
             button()
                 (
-                    "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                    "ꜱᴜᴩᴩᴏʀᴛ",
+                        url="https://t.me/venombothelp"
                 ),
             button()
                 (
-                    "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                    "ᴜᴩᴅᴀᴛᴇᴅ",
+                        url="https://t.me/venombothelp"
                 )
         ],
         [
             button()
                 (
-                    "Help",
+                    "ʜᴇʟᴩ",
                         callback_data="maincb+help_cb"
                 ),
             button()
                 (
-                    "About",
+                    "ᴀʙᴏᴜᴛ",
                        callback_data="maincb+about_cb"
                 )
         ]
@@ -249,53 +249,53 @@ class vars(object):
     help_buttons = [
         [
             button()(
-                "📤AutoFilter", callback_data="maincb+auto_cb"
+                "📤ᴀᴜᴛᴏꜰɪʟᴛᴇʀ", callback_data="maincb+auto_cb"
             ),
             button()(
-                "🎛️ManualFilter", callback_data="maincb+manual_cb"
+                "🎛️ᴍᴀɴᴜᴇʟꜰɪʟᴛᴇʀ", callback_data="maincb+manual_cb"
             )
         ],
         [
             button()(
-                "🤬Ban", callback_data="maincb+ban_cb"
+                "🤬ʙᴀɴ", callback_data="maincb+ban_cb"
             ),
             button()(
-                "🤐Mute", callback_data="maincb+mute_cb"
+                "🤐ᴍᴜᴛᴇ", callback_data="maincb+mute_cb"
             ),
             button()(
-                "ℹ️IDs", callback_data="maincb+info_cb"
+                "ℹ️ɪᴅꜱ", callback_data="maincb+info_cb"
             )
         ],
         [     
             button()(
-                "📌Pin", callback_data="maincb+pin_cb"
+                "📌ᴩɪɴ", callback_data="maincb+pin_cb"
             ),
             button()(
-                "🗣️Spell", callback_data="maincb+spell_cb"
+                "🗣️ꜱᴩᴇʟʟ", callback_data="maincb+spell_cb"
             ),
             button()(
-                "📝Caption", callback_data="maincb+caption_cb"
+                "📝ᴄᴀᴩᴛɪᴏɴ", callback_data="maincb+caption_cb"
             )
         ],
         [
             button()(
-                "🔗Connection", callback_data="maincb+connection_cb"
+                "🔗ᴄᴏɴɴᴇᴄᴛɪᴏɴ", callback_data="maincb+connection_cb"
             ),
             button()(
-                "📡Status", callback_data="maincb+stats_cb"
+                "📡ꜱᴛᴀᴛᴜꜱ", callback_data="maincb+stats_cb"
             )
         ],
         [
             button()(
-               "🔐Admin Panel🔐", callback_data="maincb+admin_panel_cb"
+               "🔐ᴀᴅᴍɪɴ ᴩᴀɴᴇʟ🔐", callback_data="maincb+admin_panel_cb"
             )
         ],
         [
             button()(
-                "🚫 Close", callback_data="close_data"
+                "🚫 ᴄʟᴏꜱᴇ", callback_data="close_data"
             ),
             button()(
-                "<= Back", callback_data="maincb+start_cb"
+                "ʙᴀᴄᴋ", callback_data="maincb+start_cb"
             )     
         ]
     ]
@@ -303,31 +303,31 @@ class vars(object):
         [
             button()
                 (
-                    "Support",
-                        url="https://t.me/Mo_Tech_YT"
+                    "ꜱᴜʟʟᴏʀᴛ",
+                        url="https://t.me/venombothelp"
                 ),
             button()
                 (
-                    "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                    "ꜱᴏᴜʀᴄᴇ",
+                        url="https://t.me/biriyanikafaofficial"
                 )
         ],
         [
             button()
                 (
-                    "Tutorial",
-                        url="https://youtu.be/63K9xkKMBoo"
+                    "ᴛᴜʀᴛᴏʀɪᴀʟ",
+                        url="https://t.me/biriyanikadaofficial"
                 ),
             button()
                 (
-                    "Insta",
-                        url="https://www.instagram.com/mrk_yt_"
+                    "ɪɴꜱᴛᴀ",
+                        url="https://www.instagram.com"
                 )
         ],
         [
             button()
                 (
-                    "⬅️ Back To Home ➡️",
+                    "⬅️ ʙᴀᴄᴋ ᴛᴏ ʜᴏᴍᴇ ➡️",
                         callback_data="maincb+start_cb"
                 )
         ]
@@ -337,12 +337,12 @@ class vars(object):
         [
             button()
                 (
-                    "close 🗑️",
+                    "ᴄʟᴏꜱᴇ 🗑️",
                         callback_data="close_data"
                 ),
             button()
                 (
-                    "back <=",
+                    "ʙᴀᴄᴋ",
                         callback_data="maincb+help_cb"
                 )
         ]
@@ -352,12 +352,12 @@ class vars(object):
         [
             button()
                 (
-                    "close 🗑️",
+                    "ᴄʟᴏꜱᴇ 🗑️",
                         callback_data="close_data"
                 ),
             button()
                 (
-                    "back <=",
+                    "ʙᴀᴄᴋ",
                         callback_data="maincb+start_cb"
                 )
         ]
@@ -367,12 +367,12 @@ class vars(object):
         [
             button()
                 (
-                    "close 🗑️",
+                    "ᴄʟᴏꜱᴇ 🗑️",
                         callback_data="close_data"
                 ),
             button()
                 (
-                    "back <=",
+                    "ʙᴀᴄᴋ",
                         callback_data="maincb+about_cb"
                 )
         ]
